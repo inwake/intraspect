@@ -1,4 +1,5 @@
----
+# Intraspect
+
 `intraspect` is an MCP server that gives AI agents introspection capabilities into the PowerShell engine.
 ---
 
